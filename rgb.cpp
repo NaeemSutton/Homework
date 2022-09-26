@@ -32,7 +32,6 @@ int main()
 
 
 
-    
-
+    cout << r << " " << g << " " << b << endl; // print the RGB values
 
 }
