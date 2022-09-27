@@ -13,9 +13,8 @@ int main()
 
 
     r -= smallest; //subtract the smallest value from the other two
-    g -= smallest; 
-    b -= smallest;
-
+     g -= smallest
+        b -= smallest;
     /*if (smallest == r) {         //old code that works but is not as efficient
         g = g - r;
         b = b - r;
